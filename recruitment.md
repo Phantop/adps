@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 **Come join our** [**Discord**](https://discord.gg/jtJyKUhCxj) **server to learn more**
 
 ## Recruitment Calendar

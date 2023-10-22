@@ -1,3 +1,4 @@
+{% include navigation.html %}
 
 
 # Greek Differently.

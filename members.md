@@ -1,3 +1,4 @@
+{% include navigation.html %}
 
 
 ## Class of 2022
