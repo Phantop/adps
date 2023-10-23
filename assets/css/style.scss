@@ -4,13 +4,23 @@
 @import "{{ site.theme }}";
 body > header > h2.project-tagline, body > header > a.btn, footer { display: none; }
 #content > nav > ul {
+    padding-left: 0;
     text-align: center;
     > li { 
         display: contents;
         float: left;
         font-size: x-large;
         font-variant: small-caps;
+        > a { color: white; }
     }
+}
+
+nav {
+    background-image: linear-gradient(120deg, #155799, #159957);
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .main-content img {
