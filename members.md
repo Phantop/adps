@@ -1,159 +1,147 @@
 {% include navigation.html %}
 
-## Class of 2022
+# Current Members
 
-![Snapchat-32785033.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1594423138427-Q6PWBQF652AW6O7F2YRM/Snapchat-32785033.jpg)
+## Theta Class
 
-### Alex (he/him)
+**Sydney Stojkovic** - Electronic Arts (she/her)
 
-Civil Engineering
+## Iota Class
 
-**Book of Choice** All the Light We Cannot See
+**Mick McCartney** - Biomedical Engineering/Music (he/they)
 
-![IMG_5248.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1589727365355-RN5NIZ9YPN4C995KNHOM/IMG_5248.jpg)
+## Kappa Class
 
-### Alvah (he/him)
+**Myth "Myth" Cochran** - Physics (they/them)
 
-Applied Physics/Math
+## Lambda Class
 
-**Book of Choice** The Garden of Eden
+**Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Computer Science (they/them)
 
-### Ben (he/him)
+**Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
 
-Computer Science
+## Mu Class
 
-**Book of Choice** I, Robot
+**AJ Jordan Mirabella** - Biology(pre-med) (they/she)
 
-![IMG_0441.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1614461275880-DSCCZP54YY6C0C3ZKS93/IMG_0441.jpg)
+**Keira Trout** - Aerospace Engeneering (she/her)
 
-### Chaz (he/him)
+**Trinity S Gagnon** - Design, Innovation, & Society (she/her)
 
-Materials Science & Engineering/Philosophy
+**James Roy Gosnell** - Computer science (he/him)
 
-**Book of Choice** The Silmarillion
+## Nu Class
 
-![James-full-190819-130-Edit.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1614463688003-KEVXGBN3GAK0DB6ZCHJ5/James-full-190819-130-Edit.jpg)
+**Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts (she/her)
 
-### James (he/him)
+**Siggy Nazimowitz** - Computer Science (he/him)
 
-Electrical Engineering/Applied Physics
+# Alumni
 
-**Book of Choice** Count of Monte Christo
+## Founding Class
 
-### Pomai (any pronouns)
+**Ezra Shamira Borman** - Game Simulations and Arts and Sciences 
 
-Civil Engineering
+**Charity Kaye Guiquin** - Environmental Engineering 
 
-**Book of Choice** The Peaceful Warrior
+**Amanda Howanice** - Games Simulations and Arts and Sciences 
 
-## Class of 2023
+**Erin Arthur** - Chemical Engineering 
 
-![IMG_0441.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1614461184327-NDEADM5SXD4T1PLJBK4K/IMG_0441.jpg)
+**Carly Blaugher** - Nuclear Engineering 
 
-### Craig (he/him)
+**Alex MacNair** - EMAC/CompSci 
 
-Architecture
+**Alexander Gordon Schneiderman** - Architecture 
 
-**Book of Choice** The Count of Monte Cristo
+**Daniel Ruan** - Architecture 
 
-![F27869A8-1F68-4BC3-B81F-A99F8BBDDE5D.JPG](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1592530286532-0WJTWGRK718GAUQX5U9T/F27869A8-1F68-4BC3-B81F-A99F8BBDDE5D.JPG)
+**Perrin Mercer** - Games Simulations and Arts and Sciences 
 
-### faizah (she/her)
+**Milo Zappa Trujillo** - Computer Science / Science, Technology, and Society 
 
-Computer Systems Engineering/Science, Technology, & Society
+**Taylor Foxe Dahlin** - Computer Science 
 
-**Book of Choice** Einstein’s Dreams
+## Alpha Class
 
-### Hui Min (she/her)
+**Rebecca Marie Halzack** - Civil Engineering 
 
-Chemistry
+**Tyler Kenneth Johnston** - Computer Science 
 
-**Book of Choice** Little Prince
+## Beta Class
 
-![20200810_170528_HDR2.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1597095287067-KA7X1M2PKR2Q61LM626A/20200810_170528_HDR2.jpg)
+**Rose Clare Pisacano** - Environmental Engineering 
 
-### Mick (he/they)
+**Claire Thomas** - Games & Simulation Arts & Sciences 
 
-Biomedical Engineering
+**Kristine Stewart** - Product Design & Innovation 
 
-**Book of Choice** Brave New World
+**Andie Dolan** - Civil Engineering 
 
-### Sydney (she/her)
+**Kibo Schaffer** - Computer Science 
 
-Electronic Arts
+## Gamma Class
 
-**Book of Choice** The Curious Incident of the Dog in the Night Time
+**Shea Kathleen Roe** - Bionformatics + Molecular Biology 
 
-## Alumni
+**Isabella Akemi Soares** - Architecture 
 
-* * *
+**Eric H Gayle** - Mechanical/Aeronautical 
 
-### Class of 2021
+**Neil M Sullivan** - Mechanical  
 
-**Oliver Shuey -** Mechanical Engineering/Science, Technology, & Society
+**Odin C Goldman** - Cognitive Science 
 
-**Rachel Friedman -** Aeronautical Engineering
+## Delta Class
 
-### Class of 2020
+**Erin Solomon** - MechE/PDI 
 
-**Emma Goldman** \- Philosophy/Communication, Media, & Design
+**Adam James Bogdanowicz** - Math 
 
-**Erin Solomon** \- Mechanical Engineering/Design, Innovation, & Society
+**Pam Sweig** - DIS/ MGMT 
 
-**Isabella Soares** \- Architecture
+## Epsilon Class
 
-**Jordan Plummer** \- Pre-law/Business & Management
+**Jordan Fay Plummer** - Business Management/Pre-Law 
 
-**Kristina Ferrara** \- Biochemistry & Biophysics
+**Sarah L Levinson** - Chemical Engineering 
 
-**Neil Sullivan** \- Mechanical/Aerospace Engineering
+**Kristina Marie Ferrara** - Biochemistry and Biophysics 
 
-**Pam Sweig** \- Design, Innovation, & Society/Business & Management
+## Zeta Class
 
-**Shea Roe** \- Bioinformatics & Molecular Biology
+**Alvah Higginson** - Applied Physics 
 
-### Class of 2019
+**Alex Elbendary** - Civil Engineering
 
-**Alex Schneiderman** \- Architecture
+**Rachel Emily Friedman** - Aeronautics Engineering 
 
-**Andie Dolan** \- Civil Engineering (M.E. Civil Engineering, 2020)
+**Oliver Shuey** - Mechanical Engineering 
 
-**Claire Thomas** \- Games & Simulation Arts & Sciences/Writing
+## Eta Class
 
-**Daniel Ruan** \- Architecture/M.S. Lighting
+**Chaz D Bernstein** - Materials Science 
 
-**Eric Gayle** \- Aerospace Engineering
+**Ben Sherman** - Computer Science/Math 
 
-**Kristine Stewart** \- Product Design & Innovation
+**Pomai Pōmaikaʻi Ahlo** - Computer Science 
 
-**Sarah Levinson** \- Chemical Engineering
+## Theta Class
 
-### Class of 2018
+**James Benjamin Lewin** - Electrical engineering and applied physics 
 
-**Alex MacNair** \- Computer Science/Electronic Media, Arts, & Communication
+**Faizah Rabbye** - Computer and Systems Engineering 
 
-**Amanda Howanice** \- Games & Simulation Arts & Sciences/Electronic Arts
+## Iota Class
 
-**Carly Blaugher** \- Nuclear Engineering
+**Craig Burnett** - Architecture
 
-**Charity Guiquin** \- Environmental Engineering
+**Hui Min Guo** - Chemistry  
 
-**Erin Arthur** \- Chemical Engineering
+## Lambda Class
 
-**Jazmyn Borman**\- Games & Simulation Arts & Sciences/Computer Science/Music
+**Mauricio Ibarra-Towle** - Aeronautical Engineering + MBA 
 
-**Kibo Schaffer** \- Computer Science
+## Mu Class
 
-**Milo Trujillo** \- Computer Science/Science, Technology, & Society (M.S. Computer Science, 2020)
-
-**Perrin Mercer** \- Games & Simulation Arts & Sciences
-
-**Rose Piscano**\- Environmental Engineering
-
-**Taylor Dahlin** \- Computer Science
-
-### Class of 2017
-
-**Rebecca Halzack** \- Civil Engineering
-
-**Tyler Johnston** \- Computer Science
+**Betsy He** - Electronic Art dual Business Management 
