@@ -35,8 +35,3 @@ We hold rush events and an extended recruitment period each semester and we init
 ### Do you guys haze?
 
 Absolutely not. The pledging period is designed to be informative and fun, not traumatic. Our ideals focus on respecting ourselves and our Siblings and we do not tolerate any mental or physical hazing of any kind.
-
-### Want more information? Head over to the contact page or email [contact@rpiadps.com](mailto:contact@rpiadps.com)
-
-[Our Mission](#mission) [At Rensselaer](#rensselaer) [Frequently Asked Questions](#faq)
-

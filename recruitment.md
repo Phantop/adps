@@ -4,11 +4,4 @@
 
 ## Recruitment Calendar
 
-![Spring_2021_Rush_Calender_Week_2.png](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1614460663569-D8NYZL5ZAGAO8T6RMR6B/Spring_2021_Rush_Calender_Week_2.png)
-
-![Spring_2021_Rush_Calender_Week_3.png](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1614460687726-8T7OBVG8MFE6YGSUHUSP/Spring_2021_Rush_Calender_Week_3.png)
-
-### Missed this semester’s recruitment? Head over to the [contact page](https://rpiadps.com/contact) to be put on our rolling recruitment list!
-
-* * *
-
+![Fall_Rush_2023](https://cdn.discordapp.com/attachments/879120591620292690/1151569663050915890/Untitled_Artwork.png)

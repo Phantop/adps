@@ -1,6 +1,5 @@
 {% include navigation.html %}
 
-
 ## Class of 2022
 
 ![Snapchat-32785033.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1594423138427-Q6PWBQF652AW6O7F2YRM/Snapchat-32785033.jpg)
@@ -73,7 +72,7 @@ Chemistry
 
 ![20200810_170528_HDR2.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1597095287067-KA7X1M2PKR2Q61LM626A/20200810_170528_HDR2.jpg)
 
-### Katie (any pronouns)
+### Mick (he/they)
 
 Biomedical Engineering
 
@@ -91,7 +90,7 @@ Electronic Arts
 
 ### Class of 2021
 
-**Melissa Shuey -** Mechanical Engineering/Science, Technology, & Society
+**Oliver Shuey -** Mechanical Engineering/Science, Technology, & Society
 
 **Rachel Friedman -** Aeronautical Engineering
 
@@ -158,6 +157,3 @@ Electronic Arts
 **Rebecca Halzack** \- Civil Engineering
 
 **Tyler Johnston** \- Computer Science
-
-[Current Members](#currentmembers) [Alumni](#alumni)
-
