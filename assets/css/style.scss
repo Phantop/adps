@@ -21,3 +21,10 @@ header {
     margin-right: auto;
     max-width: 75%;
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: black;
+        color: white;
+    }
+}
