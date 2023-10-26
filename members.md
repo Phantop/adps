@@ -10,23 +10,23 @@
 
 ## Kappa Class
 
-**Myth "Myth" Cochran** - Physics (they/them)
+**Myth Cochran** - Physics (they/them)
 
 ## Lambda Class
 
-**Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Computer Science (they/them)
-
 **Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
+
+**Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Computer Science (they/them)
 
 ## Mu Class
 
-**AJ Jordan Mirabella** - Biology(pre-med) (they/she)
+**AJ Jordan Mirabella** - Biology (they/she)
+
+**James Roy Gosnell** - Computer science (he/him)
 
 **Keira Trout** - Aerospace Engeneering (she/her)
 
 **Trinity S Gagnon** - Design, Innovation, & Society (she/her)
-
-**James Roy Gosnell** - Computer science (he/him)
 
 ## Nu Class
 
@@ -38,25 +38,25 @@
 
 ## Founding Class
 
-**Ezra Shamira Borman** - Game Simulations and Arts and Sciences 
-
-**Charity Kaye Guiquin** - Environmental Engineering 
-
-**Amanda Howanice** - Games Simulations and Arts and Sciences 
-
-**Erin Arthur** - Chemical Engineering 
-
-**Carly Blaugher** - Nuclear Engineering 
-
 **Alex MacNair** - EMAC/CompSci 
 
 **Alexander Gordon Schneiderman** - Architecture 
 
+**Amanda Howanice** - Games Simulations and Arts and Sciences 
+
+**Carly Blaugher** - Nuclear Engineering 
+
+**Charity Kaye Guiquin** - Environmental Engineering 
+
 **Daniel Ruan** - Architecture 
 
-**Perrin Mercer** - Games Simulations and Arts and Sciences 
+**Erin Arthur** - Chemical Engineering 
+
+**Ezra Shamira Borman** - Game Simulations and Arts and Sciences 
 
 **Milo Zappa Trujillo** - Computer Science / Science, Technology, and Society 
+
+**Perrin Mercer** - Games Simulations and Arts and Sciences 
 
 **Taylor Foxe Dahlin** - Computer Science 
 
@@ -68,33 +68,33 @@
 
 ## Beta Class
 
-**Rose Clare Pisacano** - Environmental Engineering 
+**Andie Dolan** - Civil Engineering 
 
 **Claire Thomas** - Games & Simulation Arts & Sciences 
 
+**Kibo Schaffer** - Computer Science 
+
 **Kristine Stewart** - Product Design & Innovation 
 
-**Andie Dolan** - Civil Engineering 
-
-**Kibo Schaffer** - Computer Science 
+**Rose Clare Pisacano** - Environmental Engineering 
 
 ## Gamma Class
 
-**Shea Kathleen Roe** - Bionformatics + Molecular Biology 
+**Eric H Gayle** - Mechanical/Aeronautical 
 
 **Isabella Akemi Soares** - Architecture 
-
-**Eric H Gayle** - Mechanical/Aeronautical 
 
 **Neil M Sullivan** - Mechanical  
 
 **Odin C Goldman** - Cognitive Science 
 
+**Shea Kathleen Roe** - Bionformatics + Molecular Biology 
+
 ## Delta Class
 
-**Erin Solomon** - MechE/PDI 
-
 **Adam James Bogdanowicz** - Math 
+
+**Erin Solomon** - MechE/PDI 
 
 **Pam Sweig** - DIS/ MGMT 
 
@@ -102,33 +102,33 @@
 
 **Jordan Fay Plummer** - Business Management/Pre-Law 
 
-**Sarah L Levinson** - Chemical Engineering 
-
 **Kristina Marie Ferrara** - Biochemistry and Biophysics 
+
+**Sarah L Levinson** - Chemical Engineering 
 
 ## Zeta Class
 
-**Alvah Higginson** - Applied Physics 
-
 **Alex Elbendary** - Civil Engineering
 
-**Rachel Emily Friedman** - Aeronautics Engineering 
+**Alvah Higginson** - Applied Physics 
 
 **Oliver Shuey** - Mechanical Engineering 
 
+**Rachel Emily Friedman** - Aeronautics Engineering 
+
 ## Eta Class
 
-**Chaz D Bernstein** - Materials Science 
-
 **Ben Sherman** - Computer Science/Math 
+
+**Chaz D Bernstein** - Materials Science 
 
 **Pomai Pōmaikaʻi Ahlo** - Computer Science 
 
 ## Theta Class
 
-**James Benjamin Lewin** - Electrical engineering and applied physics 
-
 **Faizah Rabbye** - Computer and Systems Engineering 
+
+**James Benjamin Lewin** - Electrical engineering and applied physics 
 
 ## Iota Class
 
