@@ -1,4 +1,6 @@
-# Blind Date with a Book
+# Philanthropy Events
+
+## Blind Date with a Book
 
 ![books.JPG](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1589727666886-O1QTZWH5EMV0ZUUN5XJA/books.JPG)
 
@@ -6,7 +8,7 @@ Each semester, our Chapter organizes a public Blind Date with a Book fundraising
 
 * * *
 
-# Sticker Sales
+## Sticker Sales
 
 ![20191106_145943.jpg](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1589728234585-QKO6XKAXZ74F89HAQ9HS/20191106_145943.jpg)
 
