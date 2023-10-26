@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 header {
-    padding: 1rem 1rem;
+    padding: 1rem 1rem !important;
     > nav > ul {
         padding-left: 0;
         > li { 
