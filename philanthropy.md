@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Blind Date with a Book
 
 ![books.JPG](https://images.squarespace-cdn.com/content/v1/5e2fa07dec98fd74b2ad5d8d/1589727666886-O1QTZWH5EMV0ZUUN5XJA/books.JPG)

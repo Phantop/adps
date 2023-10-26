@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Greek Differently.
 
 ![Phi_Spoops](https://cdn.discordapp.com/attachments/818252335548989462/1143914331726159963/Untitled_Artwork.png)

@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 ## About Us
 
 The Alpha Delta Phi Society is a gender-inclusive and interdisciplinary national Greek organization that specializes in cultivating literary and artistic endeavors across college campuses. We value Siblinghood, diversity, and inclusion and are dedicated to fostering intellectual and personal growth. The Society provides students with distinct leadership experiences, scholarship opportunities, and a support network that lasts beyond a Sibling’s undergraduate education.

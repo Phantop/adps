@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 **Come join our** [**Discord**](https://discord.gg/jtJyKUhCxj) **server to learn more and get to talk with us!**
 
 ## Rush Calendar
