@@ -26,11 +26,11 @@ We aim to bring a greater sense of creativity to RPI through events that allow s
 
 ### How much does it cost to join?
 
-Dues for our chapter range from $150-$175 every semester, but we believe that money should never be a deciding factor when considering joining. We run a financial aid program for our siblings to offer need- and merit-based scholarships as well as payment plans that are tailored to each individual sibling who requests aid.
+Dues for our chapter range from $175-$225 every semester, but we believe that money should never be a deciding factor when considering joining. We run a financial aid program for our siblings to offer need- and merit-based scholarships as well as payment plans that are tailored to each individual sibling who requests aid.
 
 ### How do I join?
 
-We hold rush events and an extended recruitment period each semester and we initiate members after a 5-6 week education period. Rush events are open to the public and are designed to be inclusive and interactive; we want to get to know you! During the education period, our Pledges learn about the history of the Society and get to personally know the other Siblings of our Chapter.
+We hold rush events and an extended recruitment period each semester and we initiate members after a 3-4 week education period. Rush events are open to the public and are designed to be inclusive and interactive; we want to get to know you! During the education period, our Pledges learn about the history of the Society and get to personally know the other Siblings of our Chapter.
 
 ### Do you guys haze?
 
