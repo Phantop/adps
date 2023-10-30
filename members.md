@@ -4,35 +4,57 @@
 
 **Sydney Stojkovic** - Electronic Arts (she/her)
 
+![Sydney](photos/sydney.jpg)
+
 ## Iota Class
 
 **Mick McCartney** - Biomedical Engineering/Music (he/they)
+
+![Mick](photos/mick.jpg)
 
 ## Kappa Class
 
 **Myth Cochran** - Physics (they/them)
 
+![Myth](photos/myth.jpg)
+
 ## Lambda Class
 
 **Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
 
+![Julie](photos/julie.jpg)
+
 **Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Computer Science (they/them)
+
+![Via](photos/via.jpg)
 
 ## Mu Class
 
-**AJ Jordan Mirabella** - Biology (they/she)
+**AJ Mirabella** - Biology (they/she)
+
+![AJ](photos/aj.jpg)
 
 **James Roy Gosnell** - Computer science (he/him)
 
+![James](photos/james.jpg)
+
 **Keira Trout** - Aerospace Engeneering (she/her)
 
+![Keira](photos/keira.jpg)
+
 **Trinity S Gagnon** - Design, Innovation, & Society (she/her)
+
+![Trinity](photos/trinity.jpg)
 
 ## Nu Class
 
 **Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts (she/her)
 
+![Isa](photos/isa.jpg)
+
 **Siggy Nazimowitz** - Computer Science (he/him)
+
+![Siggy](photos/siggy.jpg)
 
 # Alumni
 
