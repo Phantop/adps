@@ -6,11 +6,14 @@ header {
     padding: 1rem 1rem !important;
     > nav > ul {
         padding-left: 0;
-        > li { 
+        > li {
             display: contents;
             font-size: x-large;
             font-variant: small-caps;
-            > a { color: white; }
+            > a {
+                color: white;
+                padding: .1em;
+            }
         }
     }
 }
