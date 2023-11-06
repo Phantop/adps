@@ -2,8 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-header {
+.page-header {
     padding: 1rem 1rem !important;
+    background-image: unset;
     > nav > ul {
         padding-left: 0;
         > li {

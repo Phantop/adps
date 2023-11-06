@@ -8,7 +8,7 @@
 
 ## Iota Class
 
-**Mick McCartney** - Biomedical Engineering/Music (he/they)
+**Mick McCartney** - Music (he/they)
 
 ![Mick](photos/mick.jpg)
 
