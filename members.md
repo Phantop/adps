@@ -42,7 +42,7 @@
 
 ![Keira](photos/keira.jpg)
 
-**Trinity S Gagnon** - Design, Innovation, & Society (she/her)
+**Trinity S Gagnon** - Design, Innovation, & Society/Information Technology and also Web Sciences (she/her)
 
 ![Trinity](photos/trinity.jpg)
 
