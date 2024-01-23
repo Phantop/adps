@@ -1,11 +1,5 @@
 # Current Members
 
-## Theta Class
-
-**Sydney Stojkovic** - Electronic Arts (she/her)
-
-![Sydney](photos/sydney.jpg)
-
 ## Iota Class
 
 **Mick McCartney** - Music (he/they)
@@ -151,6 +145,8 @@
 **Faizah Rabbye** - Computer and Systems Engineering 
 
 **James Benjamin Lewin** - Electrical engineering and applied physics 
+
+**Sydney Stojkovic** - Electronic Arts
 
 ## Iota Class
 
