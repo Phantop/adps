@@ -50,6 +50,22 @@
 
 ![Siggy](photos/siggy.jpg)
 
+## Xi Class
+
+**Alex Stone Hertz** - Games & Simulation Arts & Sciences/Electronic Arts (he/him)
+
+![Alex](photos/alex.jpg)
+
+**Asterix Lombardo** - Aerospace engineering/Physics (they/them)
+
+**Bennett Grayson Marte** - Materials Science and Engineering (he/him)
+
+**Gabby F Hellmer** -Mechanical Engineering/Design Innovation Society (she/they)
+
+**Maggie Graham** - Biology (she/they)
+
+![Maggie](photos/maggie.jpg)
+
 # Alumni
 
 ## Founding Class
