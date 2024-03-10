@@ -58,9 +58,15 @@
 
 **Asterix Lombardo** - Aerospace engineering/Physics (they/them)
 
+![Asterix](photos/asterix.jpg)
+
 **Bennett Grayson Marte** - Materials Science and Engineering (he/him)
 
-**Gabby F Hellmer** -Mechanical Engineering/Design Innovation Society (she/they)
+![Marte](photos/marte.jpg)
+
+**Gabby F Hellmer** - Mechanical Engineering/Design Innovation Society (she/they)
+
+![Gabby](photos/gabby.jpg)
 
 **Maggie Graham** - Biology (she/they)
 
