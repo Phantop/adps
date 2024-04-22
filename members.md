@@ -72,6 +72,12 @@
 
 ![Maggie](photos/maggie.jpg)
 
+## Omicron Class
+
+**Mariana Gavilan** - Materials Engineering (she/her)
+
+![Mariana](photos/mariana.jpg)
+
 # Alumni
 
 ## Founding Class
