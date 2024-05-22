@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    padding: 1rem 1rem !important;
+    padding: 1rem 1rem;
     background-image: unset;
     > nav > ul {
         padding-left: 0;
