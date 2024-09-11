@@ -6,25 +6,15 @@
 
 ![Mick](photos/mick.jpg)
 
-## Kappa Class
-
-**Myth Cochran** - Physics (they/them)
-
-![Myth](photos/myth.jpg)
-
 ## Lambda Class
 
-**Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
-
-![Julie](photos/julie.jpg)
-
-**Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Computer Science (they/them)
+**Via Peck-Kropywnyckyj** - Games & Simulation Arts & Sciences/Communication, Media & Design (they/them)
 
 ![Via](photos/via.jpg)
 
 ## Mu Class
 
-**AJ Mirabella** - Biology (they/she)
+**AJ Mirabella** - Biology (they/them)
 
 ![AJ](photos/aj.jpg)
 
@@ -39,16 +29,6 @@
 **Trinity S Gagnon** - Design, Innovation, & Society/Information Technology and also Web Sciences (she/her)
 
 ![Trinity](photos/trinity.jpg)
-
-## Nu Class
-
-**Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts (she/her)
-
-![Isa](photos/isa.jpg)
-
-**Siggy Nazimowitz** - Computer Science (he/him)
-
-![Siggy](photos/siggy.jpg)
 
 ## Xi Class
 
@@ -182,10 +162,22 @@
 
 **Hui Min Guo** - Chemistry  
 
+## Kappa Class
+
+**Myth Cochran** - Physics (they/them)
+
 ## Lambda Class
 
 **Mauricio Ibarra-Towle** - Aeronautical Engineering + MBA 
 
+**Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
+
 ## Mu Class
 
 **Betsy He** - Electronic Art dual Business Management 
+
+## Nu Class
+
+**Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts (she/her)
+
+**Siggy Nazimowitz** - Computer Science (he/him)
