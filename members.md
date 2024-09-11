@@ -164,13 +164,13 @@
 
 ## Kappa Class
 
-**Myth Cochran** - Physics (they/them)
+**Myth Cochran** - Physics
 
 ## Lambda Class
 
 **Mauricio Ibarra-Towle** - Aeronautical Engineering + MBA 
 
-**Julie Hakimi** - Computer Science/Computer and Systems Engineering (she/her)
+**Julie Hakimi** - Computer Science/Computer and Systems Engineering
 
 ## Mu Class
 
@@ -178,6 +178,6 @@
 
 ## Nu Class
 
-**Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts (she/her)
+**Isabella Alicia Remedios** - Games and Simulation Arts & Sciences / Electronic Arts
 
-**Siggy Nazimowitz** - Computer Science (he/him)
+**Siggy Nazimowitz** - Computer Science
