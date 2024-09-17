@@ -44,7 +44,7 @@
 
 ![Marte](photos/marte.jpg)
 
-**Gabby F Hellmer** - Mechanical Engineering/Design Innovation Society (she/they)
+**Gabby Hellmer** - Mechanical Engineering/Design Innovation Society (she/her)
 
 ![Gabby](photos/gabby.jpg)
 
